@@ -1,0 +1,11 @@
+{
+    "clientId": "221e628d-dc5f-4160-b0d2-a34365609ba5",
+    "clientCertificate": "YOUR_CLIENT_CERTIFICATE_HERE_IF_USING_APP_ONLY",
+    "tenantId": "YOUR_TENANT_ID_HERE_IF_USING_APP_ONLY",
+    "authTenant": "common",
+    "graphUserScopes": [
+      "user.read",
+      "mail.read",
+      "mail.send"
+    ]
+}
